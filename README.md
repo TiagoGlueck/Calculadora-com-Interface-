@@ -33,3 +33,10 @@ Exibe o total atual e mensagens de erro (ex: divisão por zero ou valor inválid
 Python 3.x.
 Biblioteca CustomTkinter: instale com pip install customtkinter
 
+## Instalação e Uso
+```bash
+git clone https://github.com/TiagoGlueck/Calculadora-com-Interface-
+cd Calculadora-com-Interface-
+pip install customtkinter
+python main.py  
+
