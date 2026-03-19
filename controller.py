@@ -18,3 +18,5 @@ class Controller:
 
     def limpar(self):
         return self.calc.limpar()
+    
+    
